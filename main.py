@@ -16,13 +16,13 @@ def main():
     screen.create_oval(200, 200, 220, 220, fill="blue")
     
     
-    sx = Scrollbar(root, orient="horizontal", command=screen.xview)
-    sx.grid(row=1, column=0, sticky="ew")
-    sy = Scrollbar(root, orient="vertical", command=screen.yview)
-    sy.grid(row=0, column=1, sticky="ns")
+    # sx = Scrollbar(root, orient="horizontal", command=screen.xview)
+    # sx.grid(row=1, column=0, sticky="ew")
+    # sy = Scrollbar(root, orient="vertical", command=screen.yview)
+    # sy.grid(row=0, column=1, sticky="ns")
     
-    screen.configure(yscrollcommand=sy.set, xscrollcommand=sx.set)
-    screen.configure(scrollregion=screen.bbox("all"))
+    # screen.configure(yscrollcommand=sy.set, xscrollcommand=sx.set)
+    # screen.configure(scrollregion=screen.bbox("all"))
              
     # def callback():
     #     b.config(relief=SUNKEN)

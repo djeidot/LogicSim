@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="050c71bc-71da-4a68-aaa6-5eb051e7a478" name="Default Changelist" comment="" />
+    <list default="true" id="050c71bc-71da-4a68-aaa6-5eb051e7a478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WLF99J9EnsGtfdqV4m6S6PCEZN" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -23,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
@@ -68,37 +75,53 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Some experimental tkinter code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some experimental tkinter code" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2334" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578920949401">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2334" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578920949401" />
+    <state x="598" y="118" key="CommitChangelistDialog2" timestamp="1580121692630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="118" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121692630" />
     <state x="2660" y="296" key="FileChooserDialogImpl" timestamp="1578920945761">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2660" y="296" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578920945761" />
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1579111909660">
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1580121755147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579111909660" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121755147" />
     <state width="1876" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578922090683" />
-    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1579111909660">
+    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1580121755147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579111909660" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121755147" />
     <state width="1876" height="290" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578922090683" />
-    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1579111909660">
+    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1580121755147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579111909660" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121755147" />
     <state width="1876" height="290" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578922090683" />
-    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1579111909660">
+    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1580121755147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579111909660" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121755147" />
     <state width="1876" height="290" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578922090683" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580121716264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121716264" />
+    <state x="771" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580121703382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580121703382" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LogicSim$main.coverage" NAME="main Coverage Results" MODIFIED="1579111836232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LogicSim$main.coverage" NAME="main Coverage Results" MODIFIED="1580121654797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
